@@ -1,0 +1,110 @@
+{
+    "basics": {
+        "name": "Sarthak Omer",
+        "label": "Student",
+        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "email": "2022kucp1007@iiitkota.ac.in",
+        "phone": "+918604613011",
+        "website": "https://thegauravparmar.com",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Bindki",
+            "postalCode": "212635",
+            "city": "Fatehpur",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "SarthakOmer4",
+                "url": "https://twitter.com/SarthakOmer4"
+            },
+            {
+                "network": "linkedin",
+                "username": "Sarthak Omer",
+                "url": "https://www.linkedin.com/in/sarthak-omer-a29696217/"
+            },
+            {
+                "network": "Instagram",
+                "username": "sarthak___omer",
+                "url": "https://www.instagram.com/sarthak___omer/"
+            }
+        ]
+    },
+    "work": [
+        {
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.2",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+
+        }
+    ],
+    "publications": [
+        {
+            "title": "IIIT Kota Website",
+            "details": "Build IIIT Kota Website Using MERN.",
+            "link": "https://iiitkota.ac.in/"
+        },
+        {
+            "title": "e-Learning And Data Analytics Lab",
+            "details": "Build e-Learning And Data Analytics Lab Website Using MERN.",
+            "link": "https://eldalab.in"
+        },
+        {
+            "title": "Crypto & Stock Prediction Whatsapp ChatBot",
+            "details": "Predicting Stock price via Whatsapp Chatbot,",
+            "link": "https://github.com/thegauravparmar/Stock_Crypto_Whatsapp_Bot"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "Git",
+                "C/C++",
+                "Wordpress"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Reading Books",
+                "L"
+            ]
+        }
+    ]
+}
