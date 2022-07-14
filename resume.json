@@ -2,10 +2,10 @@
     "basics": {
         "name": "Sarthak Omer",
         "label": "Student",
-        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
-        "email": "2022kucp1007@iiitkota.ac.in",
+        "picture": " ",
+        "email": "2021kucp1007@iiitkota.ac.in",
         "phone": "+918604613011",
-        "website": "https://thegauravparmar.com",
+        "website": " ",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
         "location": {
             "address": "Bindki",
@@ -33,8 +33,7 @@
         ]
     },
     "work": [
-        {
-        }
+        {}
     ],
     "education": [
         {
@@ -50,26 +49,10 @@
         }
     ],
     "awards": [
-        {
-
-        }
+        {}
     ],
     "publications": [
-        {
-            "title": "IIIT Kota Website",
-            "details": "Build IIIT Kota Website Using MERN.",
-            "link": "https://iiitkota.ac.in/"
-        },
-        {
-            "title": "e-Learning And Data Analytics Lab",
-            "details": "Build e-Learning And Data Analytics Lab Website Using MERN.",
-            "link": "https://eldalab.in"
-        },
-        {
-            "title": "Crypto & Stock Prediction Whatsapp ChatBot",
-            "details": "Predicting Stock price via Whatsapp Chatbot,",
-            "link": "https://github.com/thegauravparmar/Stock_Crypto_Whatsapp_Bot"
-        }
+        {}
     ],
     "skills": [
         {
@@ -80,8 +63,16 @@
                 "CSS",
                 "Javascript",
                 "React",
+                "Node",
+                "Express",
+                "Next",
+                "PHP",
+                "MySQL",
                 "Git",
                 "C/C++",
+                "Java",
+                "Python",
+                "Dart",
                 "Wordpress"
             ]
         }
@@ -94,16 +85,16 @@
     ],
     "interests": [
         {
-            "name": "Singing",
+            "name": "Reading Books",
             "keywords": [
-                "Guitar"
+                "Psychology of Money",
+                "Think and Grow Rich"
             ]
         },
         {
             "name": "Playing",
             "keywords": [
-                "Reading Books",
-                "L"
+                "Chess"
             ]
         }
     ]
